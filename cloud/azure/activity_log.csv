@@ -1,0 +1,4 @@
+time,subscription,caller,operation,status,resource,ip
+2026-02-11T08:39:05Z,prod-id,j.duran@nstarbio.example,Microsoft.Graph/applications/addPassword,Success,NB-Identity-Sync,185.212.44.91
+2026-02-11T08:39:22Z,prod-id,j.duran@nstarbio.example,Microsoft.Graph/oauth2PermissionGrant/write,Success,Graph Device Manager,185.212.44.91
+2026-02-11T10:43:18Z,prod-id,iam.automation@nstarbio.example,Microsoft.Authorization/policyAssignments/write,Success,risk-dismiss,52.188.9.18

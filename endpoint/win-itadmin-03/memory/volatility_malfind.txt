@@ -1,0 +1,5 @@
+Process: edgeup.exe Pid: 4188
+Vad Tag: VadS Protection: PAGE_EXECUTE_READWRITE
+Hexdump:
+00000000  4d 5a 90 00 03 00 00 00  PE-like in memory
+...

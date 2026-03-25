@@ -1,0 +1,5 @@
+Folder: \
+TaskName                                 Next Run Time          Status
+======================================== ====================== ========
+MicrosoftEdgeUpdateTaskMachineUIX        N/A                    Ready
+Windows Update Monitor                   2/12/2026 1:00:00 AM   Ready

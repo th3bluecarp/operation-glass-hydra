@@ -1,0 +1,4 @@
+time,parent,image,cmdline,user
+2026-02-11T08:51:25Z,services.exe,PSEXESVC.exe,PSEXESVC,helpdesk.svc
+2026-02-11T08:52:14Z,cmd.exe,schtasks.exe,schtasks /Create /SC ONLOGON /TN MicrosoftEdgeUpdateTaskMachineUIX /TR "C:\ProgramData\EdgeCore\edgeup.exe",helpdesk.svc
+2026-02-11T09:03:18Z,cmd.exe,sc.exe,sc \\FS02 create WUDFSvc2 binPath= "cmd /c C:\ProgramData\wudf\stage.bat",helpdesk.svc

@@ -1,0 +1,5 @@
+time,host,logon_type,user,src_ip,process
+2026-02-11T08:51:24Z,ITADMIN-03,3,helpdesk.svc,10.20.44.22,C:\Windows\System32\services.exe
+2026-02-11T08:56:04Z,ITADMIN-03,10,infra.admin,203.0.113.42,C:\Windows\System32\svchost.exe
+2026-02-11T09:03:16Z,FS02,3,helpdesk.svc,10.20.44.33,C:\Windows\System32\services.exe
+2026-02-11T10:12:09Z,FS02,3,backup.svc,10.77.41.23,C:\Windows\System32\services.exe

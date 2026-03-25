@@ -1,0 +1,8 @@
+runner.service - GitLab Runner
+Loaded: loaded (/etc/systemd/system/runner.service; enabled)
+Active: active (running)
+Main PID: 889 (gitlab-runner)
+
+Environment:
+ AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+ AWS_SECRET_ACCESS_KEY=redactedexample

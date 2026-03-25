@@ -1,0 +1,3 @@
+northstarnb-secure.com is not a corporate domain.
+northstarbio.example SPF does not authorize 185.212.44.91.
+Lookalike domain bypassed user scrutiny, not mail authentication on corporate domain.

@@ -1,0 +1,4 @@
+time,user,action,target
+2026-02-11T08:41:12Z,j.duran@nstarbio.example,New-InboxRule,externalforward@protonmail.com
+2026-02-11T08:41:13Z,j.duran@nstarbio.example,Set-Mailbox,ForwardingSmtpAddress=none
+2026-02-11T08:41:18Z,j.duran@nstarbio.example,New-InboxRule,RSS Digest

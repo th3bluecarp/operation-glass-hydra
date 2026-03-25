@@ -1,0 +1,4 @@
+{"time":"2026-02-11T09:12:02Z","verb":"get","user":"system:serviceaccount:ci:runner","resource":"secrets","namespace":"ci"}
+{"time":"2026-02-11T09:12:05Z","verb":"list","user":"system:serviceaccount:ci:runner","resource":"secrets","namespace":"prod"}
+{"time":"2026-02-11T09:12:09Z","verb":"get","user":"system:serviceaccount:ci:runner","resource":"configmaps","namespace":"prod"}
+{"time":"2026-02-11T10:55:02Z","verb":"create","user":"platform.bot","resource":"jobs","namespace":"ops"}

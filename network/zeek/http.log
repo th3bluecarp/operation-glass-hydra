@@ -1,0 +1,4 @@
+ts,id.orig_h,host,uri,user_agent,status_code
+2026-02-11T08:16:21Z,10.20.44.22,microsoftonline-authn.com,/tenant/nbio/docs?id=88411,Mozilla/5.0,200
+2026-02-11T08:19:04Z,10.20.44.22,cdn.mshelperassets.com,/bootstrap?id=88411,powershell/5.1,200
+2026-02-11T11:14:02Z,10.20.44.10,recoveryhelpdesk.top,/api/checkin,encryptor/1.0,200

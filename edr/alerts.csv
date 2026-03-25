@@ -1,0 +1,5 @@
+time,host,severity,title,detail
+2026-02-11T08:19:04Z,ACCT-WS22,medium,Suspicious PowerShell download,chrome spawned hidden powershell
+2026-02-11T08:53:03Z,ITADMIN-03,high,Unsigned binary outbound TLS,edgeup.exe to rare domain
+2026-02-11T11:13:57Z,FS02,critical,Mass file modification,possible ransomware on decoy share
+2026-02-11T11:18:22Z,CFO-MAC-01,low,README viewed,user impact only

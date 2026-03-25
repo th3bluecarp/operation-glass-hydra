@@ -1,0 +1,4 @@
+time,parent,image,cmdline,user
+2026-02-11T09:03:21Z,services.exe,cmd.exe,cmd /c C:\ProgramData\wudf\stage.bat,helpdesk.svc
+2026-02-11T09:03:23Z,cmd.exe,rar.exe,rar a -m5 C:\ProgramData\wudf\q1_ops.rar \\FS02\Finance\Q1\*.*,helpdesk.svc
+2026-02-11T11:13:57Z,services.exe,encryptor.exe,encryptor.exe --path \\FS02\Finance\Decoy,SYSTEM

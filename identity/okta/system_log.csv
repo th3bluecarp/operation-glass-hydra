@@ -1,0 +1,7 @@
+time,eventType,actor,outcome,ip,detail
+2026-02-11T08:15:11Z,user.session.start,j.duran@nstarbio.example,SUCCESS,185.212.44.91,new geo; ok
+2026-02-11T08:15:17Z,system.push.send_factor_verify_push,j.duran@nstarbio.example,SUCCESS,185.212.44.91,push approved
+2026-02-11T08:16:02Z,app.generic.sso,j.duran@nstarbio.example,SUCCESS,185.212.44.91,Office365
+2026-02-11T08:18:44Z,user.authentication.auth_via_mfa,j.duran@nstarbio.example,SUCCESS,172.16.30.44,same session cookie reuse suspected
+2026-02-11T09:02:19Z,user.session.start,svc_backup@nstarbio.example,FAILURE,198.18.20.14,lab scanner bad creds
+2026-02-11T09:14:52Z,system.idp.lifecycle.update,iam.automation@nstarbio.example,SUCCESS,52.188.9.18,Azure automation

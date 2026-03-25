@@ -1,0 +1,5 @@
+Domain Name: MICROSOFTONLINE-AUTHN.COM
+Creation Date: 2026-02-08
+Registrar: NiceName LLC
+Registrant Country: IS
+Name Servers: ns1.parked-by-service.example

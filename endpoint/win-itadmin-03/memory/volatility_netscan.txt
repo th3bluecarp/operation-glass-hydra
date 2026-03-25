@@ -1,0 +1,3 @@
+Offset(P)          Proto   LocalAddr        ForeignAddr       State       PID  Owner     Created
+0x888001112200      TCPv4   10.20.44.33:49722 172.66.40.33:443  ESTABLISHED 4188 edgeup.exe 2026-02-11 08:53:03
+0x888001112380      TCPv4   10.20.44.33:49758 10.20.44.10:445   ESTABLISHED 3920 services.exe 2026-02-11 09:03:17

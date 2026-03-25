@@ -1,0 +1,8 @@
+UtcTime,EventID,Image,CommandLine,User,ParentImage,DestinationIp,DestinationHostname,TargetObject,Hashes
+2026-02-11 08:51:25.101,1,C:\Windows\PSEXESVC.exe,PSEXESVC,helpdesk.svc,C:\Windows\System32\services.exe,,,,SHA256=329a...
+2026-02-11 08:51:26.011,3,C:\Windows\System32\cmd.exe,cmd /c whoami /all,helpdesk.svc,C:\Windows\PSEXESVC.exe,10.20.44.22,ACCT-WS22,,
+2026-02-11 08:52:14.200,1,C:\Windows\System32\schtasks.exe,schtasks /Create /SC ONLOGON /TN MicrosoftEdgeUpdateTaskMachineUIX /TR "C:\ProgramData\EdgeCore\edgeup.exe",helpdesk.svc,C:\Windows\System32\cmd.exe,,,,
+2026-02-11 08:52:15.219,11,C:\Windows\System32\schtasks.exe,,helpdesk.svc,C:\Windows\System32\cmd.exe,,,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\MicrosoftEdgeUpdateTaskMachineUIX,
+2026-02-11 08:53:03.321,3,C:\ProgramData\EdgeCore\edgeup.exe,--sync,helpdesk.svc,C:\Windows\System32\taskeng.exe,172.66.40.33,cdn.cloudflareedge-storage.com,,
+2026-02-11 08:56:05.100,1,C:\Windows\System32\mstsc.exe,mstsc /v:FS02,infra.admin,C:\Windows\explorer.exe,,,,
+2026-02-11 09:03:18.105,1,C:\Windows\System32\sc.exe,sc \\FS02 create WUDFSvc2 binPath= "cmd /c C:\ProgramData\wudf\stage.bat",helpdesk.svc,C:\Windows\System32\cmd.exe,,,,

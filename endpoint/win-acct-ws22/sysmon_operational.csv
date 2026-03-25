@@ -1,0 +1,7 @@
+UtcTime,EventID,Image,CommandLine,User,ParentImage,DestinationIp,DestinationHostname,TargetObject,Hashes
+2026-02-11 08:16:20.001,1,C:\Program Files\Google\Chrome\Application\chrome.exe,"chrome.exe" https://microsoftonline-authn.com/tenant/nbio/docs?id=88411,J.DURAN,C:\Windows\explorer.exe,,,,SHA256=na
+2026-02-11 08:16:29.117,3,C:\Program Files\Google\Chrome\Application\chrome.exe,--type=renderer,J.DURAN,C:\Program Files\Google\Chrome\Application\chrome.exe,185.212.44.91,microsoftonline-authn.com,,
+2026-02-11 08:16:34.223,11,C:\Program Files\Google\Chrome\Application\chrome.exe,,J.DURAN,C:\Windows\explorer.exe,,,HKCU\Software\Google\Chrome\PreferenceMACs\Default\extensions.settings,
+2026-02-11 08:19:02.552,1,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell -w hidden -enc SQBmACgAJABQAFMAVgBlAHIAcwBpAG8AbgBUAGEAYgBsAGUALgBQAFMAVgBlAHIAcwBpAG8AbgApAA==,J.DURAN,C:\Program Files\Google\Chrome\Application\chrome.exe,,,,
+2026-02-11 08:19:04.122,3,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,,J.DURAN,C:\Program Files\Google\Chrome\Application\chrome.exe,104.244.76.13,cdn.mshelperassets.com,,
+2026-02-11 08:19:08.001,7,C:\Users\j.duran\AppData\Local\Temp\OneDriveSync.ps1,,J.DURAN,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,,,C:\Users\j.duran\AppData\Local\Temp\OneDriveSync.ps1,SHA256=4ac9...

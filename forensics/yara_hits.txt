@@ -1,0 +1,5 @@
+ITADMIN-03 memory image:
+  hit: custom_loader_rwxtag.yar -> edgeup.exe private region
+ACCT-WS22 memory image:
+  hit: browser_cookie_strings.yar -> ESTSAUTH token-like strings
+No confirmed match for public Cobalt Strike signatures.

@@ -1,0 +1,6 @@
+time,actor,operation,target,result,ip,app,detail
+2026-02-11T08:38:55Z,j.duran@nstarbio.example,Add service principal credentials,NB-Identity-Sync,SUCCESS,185.212.44.91,Azure Portal,client secret added
+2026-02-11T08:39:22Z,j.duran@nstarbio.example,Consent to application,Graph Device Manager,SUCCESS,185.212.44.91,Azure Portal,Mail.Read Files.Read.All
+2026-02-11T08:57:01Z,iam.automation@nstarbio.example,Update application proxy,LegacyAuthRelay,SUCCESS,52.188.9.18,Azure Automation,scheduled job
+2026-02-11T09:11:12Z,j.duran@nstarbio.example,Register device,WIN-7KX2J9M,SUCCESS,185.212.44.91,Device Registration Service,joined
+2026-02-11T10:43:18Z,unknown,Sign-in risk dismissed,j.duran@nstarbio.example,SUCCESS,52.188.9.18,Identity Protection,automation webhook

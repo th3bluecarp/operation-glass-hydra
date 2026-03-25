@@ -1,0 +1,5 @@
+HD-58492
+User: cfo@nstarbio.example
+Issue: Needed vendor support last month
+Resolution: AnyDesk removed 2026-01-22
+Note: service log remnants may persist

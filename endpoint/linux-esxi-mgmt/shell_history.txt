@@ -1,0 +1,3 @@
+vim-cmd vmsvc/getallvms
+esxcli network firewall ruleset list
+cat /var/log/auth.log | tail

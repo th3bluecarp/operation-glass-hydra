@@ -1,0 +1,6 @@
+time,workload,operation,user,detail,ip
+2026-02-11T08:39:05Z,AzureActiveDirectory,Add service principal credentials,j.duran@nstarbio.example,NB-Identity-Sync secret added,185.212.44.91
+2026-02-11T08:40:11Z,Exchange,SearchQueryInitiated,j.duran@nstarbio.example,"kind:email AND (wire OR remittance OR routing)",185.212.44.91
+2026-02-11T08:40:54Z,Exchange,MailItemsAccessed,j.duran@nstarbio.example,Finance shared mailbox,185.212.44.91
+2026-02-11T08:41:12Z,Exchange,New-InboxRule,j.duran@nstarbio.example,RSS Digest -> mark as read,185.212.44.91
+2026-02-11T10:22:31Z,Exchange,SearchQueryInitiated,svc.discovery@nstarbio.example,legal hold keyword scan,52.188.9.18

@@ -1,0 +1,4 @@
+path,sha256,note
+C:\ProgramData\EdgeCore\edgeup.exe,aabbccddeeff00112233,unknown custom loader
+C:\Windows\Temp\beacon.dll,deadbeefdeadbeefdead,old red team artifact not executed
+C:\ProgramData\wudf\encryptor.exe,99887766aabbccdd1122,locker used only on decoy share

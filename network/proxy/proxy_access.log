@@ -1,0 +1,6 @@
+time,src_user,src_ip,method,host,uri,status,bytes,user_agent
+2026-02-11T08:16:21Z,j.duran,10.20.44.22,GET,microsoftonline-authn.com,/tenant/nbio/docs?id=88411,200,5822,Mozilla/5.0
+2026-02-11T08:36:08Z,j.duran,10.20.44.22,GET,portal.azure.com,/,200,80122,Mozilla/5.0
+2026-02-11T08:39:20Z,j.duran,10.20.44.22,POST,graph.microsoft.com,/v1.0/oauth2PermissionGrants,201,1122,Mozilla/5.0
+2026-02-11T09:08:59Z,-,10.20.51.9,CONNECT,45.77.91.12,443,200,0,curl/7.81.0
+2026-02-11T09:20:42Z,scanner,10.77.41.23,GET,10.20.44.10,/rpc,401,112,nmap

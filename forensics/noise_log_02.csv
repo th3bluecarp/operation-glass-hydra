@@ -1,0 +1,31 @@
+time,event,detail
+2026-02-11T07:43:18Z,logout,scanner
+2026-02-11T11:08:13Z,service_restart,normal
+2026-02-11T12:40:32Z,query,retry
+2026-02-11T10:40:35Z,query,legacy app
+2026-02-11T07:44:01Z,query,scanner
+2026-02-11T09:50:18Z,policy_refresh,scanner
+2026-02-11T12:50:20Z,login,scanner
+2026-02-11T09:40:13Z,logout,scanner
+2026-02-11T08:09:26Z,policy_refresh,scanner
+2026-02-11T07:21:19Z,scan,timeout
+2026-02-11T12:50:16Z,service_restart,maintenance
+2026-02-11T10:17:20Z,policy_refresh,scanner
+2026-02-11T07:09:25Z,scan,maintenance
+2026-02-11T10:43:04Z,scan,timeout
+2026-02-11T11:25:22Z,logout,legacy app
+2026-02-11T09:24:13Z,query,scanner
+2026-02-11T11:56:22Z,query,scanner
+2026-02-11T12:46:20Z,scan,normal
+2026-02-11T09:48:43Z,service_restart,scanner
+2026-02-11T07:10:31Z,query,maintenance
+2026-02-11T09:49:08Z,scan,normal
+2026-02-11T09:10:10Z,policy_refresh,timeout
+2026-02-11T07:43:57Z,logout,legacy app
+2026-02-11T08:49:55Z,scan,retry
+2026-02-11T08:10:28Z,scan,legacy app
+2026-02-11T07:25:00Z,scan,scanner
+2026-02-11T09:55:48Z,query,maintenance
+2026-02-11T10:36:29Z,login,timeout
+2026-02-11T08:29:19Z,service_restart,timeout
+2026-02-11T10:31:42Z,logout,legacy app

@@ -1,0 +1,4 @@
+commit e91a1c2 Fix footer copyright year
+commit 0af611e Rotate old scanner allowlist
+commit 26b7de9 Add temp outbound allow for vendor upload
+commit 1d3abf1 Revert temp outbound allow

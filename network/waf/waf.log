@@ -1,0 +1,3 @@
+time,src_ip,host,uri,action,rule
+2026-02-11T09:50:11Z,198.51.100.44,portal.nstarbio.example,/login,block,sqli
+2026-02-11T09:52:22Z,198.18.20.14,portal.nstarbio.example,/assets/logo.svg,allow,scanner

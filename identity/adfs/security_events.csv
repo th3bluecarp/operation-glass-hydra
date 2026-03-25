@@ -1,0 +1,4 @@
+time,event,client_ip,user,detail
+2026-02-11T08:15:16Z,1202,185.212.44.91,j.duran@nstarbio.example,Token issued to Office365
+2026-02-11T08:15:16Z,501,185.212.44.91,j.duran@nstarbio.example,Additional authentication satisfied
+2026-02-11T09:30:00Z,307,198.18.20.14,svc_backup@nstarbio.example,invalid password

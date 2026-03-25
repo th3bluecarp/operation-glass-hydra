@@ -1,0 +1,4 @@
+host_key,name,path,creation_utc,last_access_utc,is_secure,is_httponly
+.login.microsoftonline.com,ESTSAUTH,/,"2026-02-11T08:16:52Z","2026-02-11T08:36:09Z",1,1
+.office.com,x-ms-gateway-slice,/,"2026-02-11T08:17:41Z","2026-02-11T08:39:24Z",1,0
+microsoftonline-authn.com,session,/,"2026-02-11T08:16:21Z","2026-02-11T08:16:55Z",0,0

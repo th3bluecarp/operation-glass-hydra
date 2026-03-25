@@ -1,0 +1,4 @@
+domain,first_seen,last_seen,ip
+microsoftonline-authn.com,2026-02-08,2026-02-11,185.212.44.91
+cdn.mshelperassets.com,2026-02-09,2026-02-11,104.244.76.13
+recoveryhelpdesk.top,2026-02-11,2026-02-12,198.51.100.77

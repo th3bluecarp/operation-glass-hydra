@@ -1,0 +1,1 @@
+PCAPs are synthetic but open cleanly in Wireshark/tshark. Scapy unavailable: No module named 'scapy'

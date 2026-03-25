@@ -1,0 +1,6 @@
+time,user,app,result,ip,device,conditional_access
+2026-02-11T08:15:57Z,j.duran@nstarbio.example,OfficeHome,SUCCESS,185.212.44.91,UnknownBrowser,requireMFA satisfied
+2026-02-11T08:16:14Z,j.duran@nstarbio.example,Exchange Online,SUCCESS,185.212.44.91,UnknownBrowser,requireMFA satisfied
+2026-02-11T08:36:10Z,j.duran@nstarbio.example,Azure Portal,SUCCESS,185.212.44.91,UnknownBrowser,requireMFA satisfied
+2026-02-11T09:10:58Z,j.duran@nstarbio.example,Azure Device Registration,SUCCESS,185.212.44.91,WIN-7KX2J9M,notApplied
+2026-02-11T12:22:40Z,helpdesk.svc@nstarbio.example,RDP,SUCCESS,203.0.113.42,LegacyVPN,legacy exempt

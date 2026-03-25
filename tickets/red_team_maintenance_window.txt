@@ -1,0 +1,6 @@
+RT-117
+Date: 2026-02-12
+Time: 02:00-04:00 UTC
+Purpose: Internal emulation validation against lab VLAN only
+Approved source: 10.77.41.23
+Note: any traffic from 198.18.0.0/15 may be scanner or emulation-related

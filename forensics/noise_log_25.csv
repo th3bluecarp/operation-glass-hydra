@@ -1,0 +1,31 @@
+time,event,detail
+2026-02-11T10:31:46Z,service_restart,scanner
+2026-02-11T09:02:38Z,service_restart,retry
+2026-02-11T09:21:54Z,logout,normal
+2026-02-11T11:25:33Z,query,scanner
+2026-02-11T12:23:57Z,service_restart,scanner
+2026-02-11T12:28:10Z,logout,maintenance
+2026-02-11T12:09:41Z,logout,normal
+2026-02-11T12:25:00Z,query,retry
+2026-02-11T10:09:30Z,service_restart,maintenance
+2026-02-11T09:55:54Z,service_restart,maintenance
+2026-02-11T10:06:12Z,query,normal
+2026-02-11T09:07:20Z,logout,maintenance
+2026-02-11T07:04:09Z,login,timeout
+2026-02-11T09:51:53Z,policy_refresh,normal
+2026-02-11T12:21:54Z,service_restart,retry
+2026-02-11T12:27:39Z,login,timeout
+2026-02-11T11:36:01Z,login,retry
+2026-02-11T12:08:40Z,scan,legacy app
+2026-02-11T07:58:12Z,login,legacy app
+2026-02-11T10:00:49Z,query,retry
+2026-02-11T07:27:12Z,scan,timeout
+2026-02-11T12:58:43Z,login,legacy app
+2026-02-11T07:20:01Z,service_restart,timeout
+2026-02-11T08:26:13Z,scan,scanner
+2026-02-11T07:27:13Z,login,legacy app
+2026-02-11T11:25:52Z,service_restart,legacy app
+2026-02-11T10:20:24Z,login,maintenance
+2026-02-11T11:52:32Z,policy_refresh,scanner
+2026-02-11T11:53:21Z,logout,maintenance
+2026-02-11T07:12:23Z,scan,timeout

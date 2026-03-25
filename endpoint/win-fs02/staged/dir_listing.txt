@@ -1,0 +1,5 @@
+C:\ProgramData\wudf\
+  q1_ops.rar
+  exec_notes.zip
+  customer_msa_drafts.7z
+  README-RECOVER-FILES.txt

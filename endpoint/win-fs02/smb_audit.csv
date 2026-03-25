@@ -1,0 +1,5 @@
+time,user,src_host,share,path,action
+2026-02-11T09:03:19Z,helpdesk.svc,ITADMIN-03,ADMIN$,C$\ProgramData\wudf\stage.bat,write
+2026-02-11T09:03:22Z,helpdesk.svc,ITADMIN-03,Finance,\Finance\Q1\budget_forecast_v7.xlsx,read
+2026-02-11T09:03:23Z,helpdesk.svc,ITADMIN-03,Finance,\Finance\Q1\supplier_wire_changes.xlsx,read
+2026-02-11T11:13:58Z,SYSTEM,FS02,Finance,\Finance\Decoy\readme.txt,write

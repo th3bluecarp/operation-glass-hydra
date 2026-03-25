@@ -1,0 +1,3 @@
+2026-02-11T09:08:10Z job=1772 runner=build-01 project=biopipeline
+export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+python deploy.py --env prod

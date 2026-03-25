@@ -1,0 +1,3 @@
+time,host,user,privs
+2026-02-11T08:51:24Z,ITADMIN-03,helpdesk.svc,SeDebugPrivilege;SeTcbPrivilege
+2026-02-11T09:03:16Z,FS02,helpdesk.svc,SeBackupPrivilege;SeRestorePrivilege

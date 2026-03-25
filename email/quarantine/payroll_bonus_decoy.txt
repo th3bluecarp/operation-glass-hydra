@@ -1,0 +1,5 @@
+Mail gateway quarantine extract
+From: Payroll <hr-bonus@northstarbio-pay.com>
+To: many users
+Reason: known phishing kit domain
+Disposition: blocked pre-delivery

@@ -1,0 +1,9 @@
+CHG-8821
+Date: 2026-02-01
+Title: Legacy app proxy trust tuning for external vendors
+Owner: IAM Team
+Status: Complete
+
+Notes:
+- ADFS trust config updated for legacy app
+- No change to MFA policy
