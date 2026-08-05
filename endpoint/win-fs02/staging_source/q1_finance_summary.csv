@@ -1,0 +1,5 @@
+department,cost_center,q1_budget,q1_actual,variance,owner
+Operations,4100,1850000,1784112,65888,M. Chen
+Customer Success,4200,1260000,1318844,-58844,R. Singh
+Infrastructure,4300,2425000,2381061,43939,T. Alvarez
+Finance,4400,910000,894218,15782,A. Brooks

@@ -1,5 +1,5 @@
 time,host,path,action
 2026-02-11T08:52:14Z,ITADMIN-03,C:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskMachineUIX,create
 2026-02-11T09:03:19Z,FS02,C:\ProgramData\wudf\stage.bat,create
-2026-02-11T09:03:23Z,FS02,C:\ProgramData\wudf\q1_ops.rar,create
+2026-02-11T09:03:23Z,FS02,C:\ProgramData\wudf\q1_ops.zip,create
 2026-02-11T11:13:57Z,FS02,\\FS02\Finance\Decoy\README-RECOVER-FILES.txt,create

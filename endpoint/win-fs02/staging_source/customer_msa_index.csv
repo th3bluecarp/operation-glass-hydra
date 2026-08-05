@@ -1,0 +1,4 @@
+customer,agreement_id,revision,last_modified,legal_owner,status
+Northwind Transit,MSA-2024-118,7,2026-02-04,K. Morris,redline
+Vela Health,MSA-2025-044,3,2026-02-07,K. Morris,review
+Stonebridge Retail,MSA-2023-209,11,2026-02-09,D. Walsh,signature_pending
